@@ -7,7 +7,6 @@
     <variable name="Time" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
   <template name="cd" value="/**&#10; * ClassName:$ClassName$  &lt;br&gt;&#10; * Description:$Desciption$  &lt;br&gt;&#10; * Creator:$Creator$  &lt;br&gt;&#10; * Date: $Date$ $Time$  &lt;br&gt;&#10; */" description="类注释" toReformat="false" toShortenFQNames="true" useStaticImport="true">
@@ -18,7 +17,6 @@
     <variable name="Time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
 </templateSet>
