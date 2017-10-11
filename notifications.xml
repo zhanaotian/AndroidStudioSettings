@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Outdated Kotlin Runtime" shouldReadAloud="true" />
+  </component>
+</application>
