@@ -1,2 +1,2 @@
-# AndroidStudioSettings
-Android Studio 设置
+# Intellij-IDEA-Settings
+Intellij IDEA 设置
