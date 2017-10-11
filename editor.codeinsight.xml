@@ -17,6 +17,9 @@
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.util.collections" />
     <EXCLUDED_PACKAGE NAME="org.mockito.internal.verification.VerificationModeFactory" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
