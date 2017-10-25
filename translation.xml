@@ -1,0 +1,9 @@
+<application>
+  <component name="TranslationSettings">
+    <option name="appId" value="" />
+    <option name="langFrom" value="AUTO" />
+    <option name="langTo" value="AUTO" />
+    <option name="overrideFont" value="true" />
+    <option name="primaryFontFamily" value="Roboto Mono" />
+  </component>
+</application>
