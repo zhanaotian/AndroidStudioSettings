@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+Insert'" value="1" />
+        <entry key="'Delete'" value="2" />
+        <entry key="'Shift+F10'" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
