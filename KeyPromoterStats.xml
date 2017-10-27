@@ -3,7 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'Alt+0'" value="1" />
-        <entry key="'Alt+1'" value="13" />
+        <entry key="'Alt+1'" value="14" />
         <entry key="'Alt+4'" value="1" />
         <entry key="'Alt+6'" value="9" />
         <entry key="'Alt+Insert'" value="1" />
@@ -13,7 +13,7 @@
         <entry key="'Ctrl+F9'" value="4" />
         <entry key="'Delete'" value="4" />
         <entry key="'F4'" value="3" />
-        <entry key="'Shift+F10'" value="38" />
+        <entry key="'Shift+F10'" value="39" />
       </map>
     </option>
   </component>
