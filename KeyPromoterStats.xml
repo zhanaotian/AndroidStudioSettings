@@ -8,12 +8,12 @@
         <entry key="'Alt+6'" value="9" />
         <entry key="'Alt+Insert'" value="1" />
         <entry key="'Ctrl+Alt+F'" value="1" />
-        <entry key="'Ctrl+Alt+S'" value="11" />
+        <entry key="'Ctrl+Alt+S'" value="12" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="6" />
         <entry key="'Ctrl+F9'" value="4" />
-        <entry key="'Delete'" value="4" />
-        <entry key="'F4'" value="4" />
-        <entry key="'Shift+F10'" value="42" />
+        <entry key="'Delete'" value="5" />
+        <entry key="'F4'" value="6" />
+        <entry key="'Shift+F10'" value="44" />
       </map>
     </option>
   </component>
