@@ -1,5 +1,8 @@
 <application>
   <component name="PomodoroSettings">
     <option name="blockDuringBreak" value="true" />
+    <option name="longBreakFrequency" value="3" />
+    <option pomodoroLengthInMinutes="pomodoroDuration" value="35" />
+    <option breakLengthInMinutes="breakDuration" value="10" />
   </component>
 </application>
