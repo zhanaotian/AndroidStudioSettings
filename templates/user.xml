@@ -10,15 +10,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="md" value="/**&#10; * Method:$Method$  &lt;br&gt;&#10; * Description:$Desciption$  &lt;br&gt;&#10; * Creator:$Creator$  &lt;br&gt;&#10; * Date: $Date$ $Time$  &lt;br&gt;&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true" useStaticImport="true">
-    <variable name="Method" expression="methodName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="Desciption" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Creator" expression="user()" defaultValue="JKwar" alwaysStopAt="true" />
-    <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="Time" expression="time()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
 </templateSet>
