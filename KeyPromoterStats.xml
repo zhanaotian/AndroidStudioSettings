@@ -11,7 +11,7 @@
         <entry key="'Alt+7'" value="2" />
         <entry key="'Alt+9'" value="34" />
         <entry key="'Alt+Delete'" value="1" />
-        <entry key="'Alt+Insert'" value="13" />
+        <entry key="'Alt+Insert'" value="14" />
         <entry key="'Alt+Shift+F10'" value="4" />
         <entry key="'Ctrl+Alt+F'" value="4" />
         <entry key="'Ctrl+Alt+O'" value="1" />
@@ -27,7 +27,7 @@
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="2" />
         <entry key="'Delete'" value="65" />
         <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="8" />
-        <entry key="'F4'" value="15" />
+        <entry key="'F4'" value="16" />
         <entry key="'F7'" value="2" />
         <entry key="'F8'" value="17" />
         <entry key="'Insert'" value="1" />
