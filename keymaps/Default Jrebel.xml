@@ -3,10 +3,14 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="AndroidExtractStyleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="ChooseRunConfiguration" />
   <action id="Debug with JRebel for Android">
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
+  <action id="ExtractFunctionToScope" />
   <action id="JRebel for Android">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
