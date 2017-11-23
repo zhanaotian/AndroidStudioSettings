@@ -1,6 +1,6 @@
 <application>
   <component name="PomodoroSettings">
-    <option name="blockDuringBreak" value="true" />
+    <option name="startNewPomodoroAfterBreak" value="true" />
     <option pomodoroLengthInMinutes="pomodoroDuration" value="36" />
     <option breakLengthInMinutes="breakDuration" value="6" />
   </component>
