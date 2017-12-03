@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="android.view.LayoutInflater.inflate(resource,root)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
