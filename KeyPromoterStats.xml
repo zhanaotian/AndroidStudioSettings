@@ -2,6 +2,9 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'&amp;#8984; 4'" value="1" />
+        <entry key="'&amp;#8984; 6'" value="1" />
+        <entry key="'&amp;#8984; 9'" value="1" />
         <entry key="'Alt+0'" value="24" />
         <entry key="'Alt+1'" value="69" />
         <entry key="'Alt+2'" value="4" />
@@ -45,7 +48,9 @@
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or '向上箭头' or 'Shift+Enter'" value="9" />
         <entry key="'Shift+F6'" value="4" />
         <entry key="'Shift+F9'" value="1" />
-        <entry key="'⌃R'" value="8" />
+        <entry key="'⇧⌘D'" value="1" />
+        <entry key="'⌃R'" value="31" />
+        <entry key="'⌘C'" value="2" />
         <entry key="'⌘↓' or 'F4'" value="2" />
       </map>
     </option>
