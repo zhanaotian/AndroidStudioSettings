@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="AndroidExtractStyleAction">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ChooseRunConfiguration" />
   <action id="Debug with JRebel for Android">
