@@ -39,7 +39,7 @@
         <entry key="'Ctrl+Shift+S'" value="4" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="12" />
         <entry key="'Ctrl+引号'" value="2" />
-        <entry key="'Delete'" value="193" />
+        <entry key="'Delete'" value="196" />
         <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="35" />
         <entry key="'F4'" value="17" />
         <entry key="'F7'" value="2" />
@@ -49,7 +49,7 @@
         <entry key="'Shift+Esc'" value="2" />
         <entry key="'Shift+F10'" value="105" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or '向上箭头' or 'Shift+Enter'" value="9" />
-        <entry key="'Shift+F6'" value="4" />
+        <entry key="'Shift+F6'" value="5" />
         <entry key="'Shift+F9'" value="1" />
         <entry key="'⇧⌘D'" value="1" />
         <entry key="'⌃R'" value="31" />
