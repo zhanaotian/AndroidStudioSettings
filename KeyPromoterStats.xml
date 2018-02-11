@@ -3,7 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'&amp;#8984; 4'" value="1" />
-        <entry key="'&amp;#8984; 6'" value="1" />
+        <entry key="'&amp;#8984; 6'" value="4" />
         <entry key="'&amp;#8984; 9'" value="1" />
         <entry key="'Alt+0'" value="26" />
         <entry key="'Alt+1'" value="100" />
@@ -52,8 +52,8 @@
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or '向上箭头' or 'Shift+Enter'" value="9" />
         <entry key="'Shift+F6'" value="5" />
         <entry key="'Shift+F9'" value="1" />
-        <entry key="'⇧⌘D'" value="1" />
-        <entry key="'⌃R'" value="39" />
+        <entry key="'⇧⌘D'" value="2" />
+        <entry key="'⌃R'" value="50" />
         <entry key="'⌘C'" value="2" />
         <entry key="'⌘↓' or 'F4'" value="2" />
       </map>
