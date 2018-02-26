@@ -20,7 +20,7 @@
         <entry key="'Alt+Insert'" value="20" />
         <entry key="'Alt+Insert' or 'Ctrl+N'" value="1" />
         <entry key="'Alt+S'" value="1" />
-        <entry key="'Alt+Shift+F10'" value="7" />
+        <entry key="'Alt+Shift+F10'" value="12" />
         <entry key="'Ctrl+Alt+F'" value="4" />
         <entry key="'Ctrl+Alt+F4'" value="3" />
         <entry key="'Ctrl+Alt+O'" value="2" />
@@ -44,13 +44,14 @@
         <entry key="'F3' or 'Ctrl+L' or '向下箭头' or 'Enter'" value="42" />
         <entry key="'F4'" value="17" />
         <entry key="'F7'" value="2" />
-        <entry key="'F8'" value="17" />
+        <entry key="'F8'" value="18" />
         <entry key="'Insert'" value="1" />
         <entry key="'Meta+Alt+S'" value="3" />
         <entry key="'Shift+Esc'" value="2" />
         <entry key="'Shift+F10'" value="105" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or '向上箭头' or 'Shift+Enter'" value="9" />
         <entry key="'Shift+F6'" value="5" />
+        <entry key="'Shift+F8'" value="5" />
         <entry key="'Shift+F9'" value="1" />
         <entry key="'⇧⌘D'" value="1" />
         <entry key="'⌃R'" value="31" />
