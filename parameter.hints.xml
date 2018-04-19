@@ -7,6 +7,5 @@
         <added pattern="android.view.LayoutInflater.inflate(resource,root)" />
       </blacklist>
     </blacklists>
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
