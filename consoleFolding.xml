@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at android.view.View.applyLegacyAnimation(View.java:16844)" />
+      </list>
+    </option>
+  </component>
+</application>
