@@ -26,6 +26,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="war745a@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Skykai521/StickerCamera.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Develop" />
