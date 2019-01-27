@@ -6,11 +6,32 @@
           <option name="url" value="https://github.com/zhanaotian/JavaAndKotlinObjectOriented.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhanaotian/PracticeDraw1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhanaotian/PracticeDraw2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhanaotian/PracticeDraw3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AndroidKun/XTabLayout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="war745a@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Skykai521/StickerCamera.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/JavaProjects" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/Develop" />
   </component>
 </application>

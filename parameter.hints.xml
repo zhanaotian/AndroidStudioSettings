@@ -1,11 +1,15 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="android.graphics.Canvas.drawTextRun(text,index,count,contextIndex,contextCount,x,y,isRtl,paint)" />
+      </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin">
         <added pattern="android.view.LayoutInflater.inflate(resource,root)" />
+        <added pattern="android.animation.ObjectAnimator.ofFloat(target,propertyName,values)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
