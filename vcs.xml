@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/Skykai521/StickerCamera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zhanaotian/PracticeDraw4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Develop" />
+    <option name="cloneParentDir" value="$USER_HOME$/code/AndroidProjects" />
   </component>
 </application>
