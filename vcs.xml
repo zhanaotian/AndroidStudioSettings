@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/zhanaotian/PracticeDraw4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vondear/RxTool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code/AndroidProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Develop" />
   </component>
 </application>
