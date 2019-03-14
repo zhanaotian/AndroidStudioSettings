@@ -70,8 +70,12 @@
           <option name="url" value="https://github.com/tibi1712/Folding-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ImmortalZ/StereoView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Develop" />
+    <option name="cloneParentDir" value="$USER_HOME$/code/AndroidProjects" />
   </component>
 </application>
