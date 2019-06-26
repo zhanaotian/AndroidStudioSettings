@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>861</Count>
+          <Count>878</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>63</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -134,7 +134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ArtApp'</Description>
-          <Count>425</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
