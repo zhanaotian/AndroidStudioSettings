@@ -17,6 +17,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>984</Count>
+          <Count>987</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -78,7 +86,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -102,7 +110,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -110,7 +118,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
