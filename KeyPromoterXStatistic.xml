@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1324</Count>
+          <Count>1325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,7 +118,15 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>78</Count>
+          <Count>79</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -190,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ArtApp'</Description>
-          <Count>751</Count>
+          <Count>766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
