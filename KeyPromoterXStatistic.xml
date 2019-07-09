@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1427</Count>
+          <Count>1430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ArtApp'</Description>
-          <Count>815</Count>
+          <Count>819</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>97</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app' with JRebel for Android">
