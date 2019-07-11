@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ArtApp'</Description>
-          <Count>917</Count>
+          <Count>920</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
