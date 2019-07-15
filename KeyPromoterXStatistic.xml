@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1746</Count>
+          <Count>1750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -94,7 +94,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -118,7 +118,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ArtApp'</Description>
-          <Count>1135</Count>
+          <Count>1138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app'">
