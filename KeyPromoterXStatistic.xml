@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2454</Count>
+          <Count>2459</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -78,6 +78,14 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'⌥F7'</ShortCut>
+          <Description>Find Usages</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -105,6 +113,14 @@
           <Count>50</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to External Editor">
+        <Item>
+          <IdeaActionID>Images.EditExternally</IdeaActionID>
+          <ShortCut>'⌥⌘F4'</ShortCut>
+          <Description>Jump to External Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
@@ -118,7 +134,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>185</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -206,7 +222,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ArtApp'">
@@ -222,7 +238,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>537</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'app' with JRebel for Android">
