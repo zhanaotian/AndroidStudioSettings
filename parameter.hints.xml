@@ -10,6 +10,7 @@
         <added pattern="android.animation.ObjectAnimator.ofFloat(target,propertyName,values)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
   </component>
 </application>
