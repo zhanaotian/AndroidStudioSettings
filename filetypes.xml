@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="img_0" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="drawable_status" type="XML" />
     </extensionMap>
   </component>
