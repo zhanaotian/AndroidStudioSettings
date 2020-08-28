@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Android/Add library dependency" />
+    <ignoreAction name="Kotlin/Specify type explicitly" />
   </component>
 </application>
