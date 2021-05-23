@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="img_0" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
