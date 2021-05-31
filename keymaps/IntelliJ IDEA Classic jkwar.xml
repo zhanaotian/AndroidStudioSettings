@@ -6,19 +6,17 @@
   <action id="Diff.PrevChange" />
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
   <action id="NextTab" />
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="RestoreDefaultLayout" />
   <action id="ToggleCompletionHintsAction">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="meta alt slash" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
