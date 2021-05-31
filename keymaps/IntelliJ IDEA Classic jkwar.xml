@@ -1,0 +1,16 @@
+<keymap version="1" name="IntelliJ IDEA Classic jkwar" parent="Mac OS X">
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="RestoreDefaultLayout" />
+</keymap>
