@@ -1,4 +1,5 @@
 <keymap version="1" name="IntelliJ IDEA Classic jkwar" parent="Mac OS X">
+  <action id="ChangeTypeSignature" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
@@ -10,7 +11,19 @@
   <action id="MethodUp" />
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="RestoreDefaultLayout" />
+  <action id="ToggleCompletionHintsAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
 </keymap>
