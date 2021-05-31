@@ -8,6 +8,7 @@
       <blacklist language="Kotlin">
         <added pattern="android.view.LayoutInflater.inflate(resource,root)" />
         <added pattern="android.animation.ObjectAnimator.ofFloat(target,propertyName,values)" />
+        <added pattern="android.annotation.SuppressLint(value)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
