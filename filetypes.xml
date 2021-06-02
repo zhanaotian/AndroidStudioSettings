@@ -9,6 +9,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="drawable_status" type="XML" />
+      <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
