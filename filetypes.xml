@@ -11,6 +11,7 @@
       <mapping pattern="drawable_status" type="XML" />
       <mapping ext="qrc" type="XML" />
       <removed_mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
