@@ -134,6 +134,10 @@
           <option name="url" value="ssh://git@git.imooc.com:80/coding-308/AndroidPerformance.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lanshifu/MultiDexTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code/AndroidProjects" />
