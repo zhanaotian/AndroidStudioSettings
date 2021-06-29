@@ -1,5 +1,9 @@
 <keymap version="1" name="IntelliJ IDEA Classic jkwar" parent="Mac OS X">
   <action id="ChangeTypeSignature" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CloseContent" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
