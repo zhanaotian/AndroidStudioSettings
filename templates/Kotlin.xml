@@ -1,4 +1,13 @@
 <templateSet group="Kotlin">
+  <template name="ifn" value="if ($VAR$ == null) {&#10;$END$&#10;}" description="插入 'if null' 表达式" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="kotlinVariable()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="void" value="fun $NAME$($PARAMS$) {&#10;$END$&#10;}" description="函数不返回任何内容" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="interface" value="interface $NAME$ {&#10;$END$&#10;}" description="接口" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
