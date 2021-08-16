@@ -1,5 +1,0 @@
-<templateSet group="Java">
-  <template name="prsf" value="private static final " description="private static final" toReformat="false" toShortenFQNames="false">
-    <context />
-  </template>
-</templateSet>

@@ -2,7 +2,7 @@
   <template name="cd" value="/**&#10; * ClassName:$ClassName$  &lt;br&gt;&#10; * Description:$Desciption$  &lt;br&gt;&#10; * Creator:$Creator$  &lt;br&gt;&#10; * Date: $Date$ $Time$  &lt;br&gt;&#10; */" description="类注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="ClassName" expression="className()" defaultValue="" alwaysStopAt="false" />
     <variable name="Desciption" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Creator" expression="" defaultValue="JKwar" alwaysStopAt="true" />
+    <variable name="Creator" expression="JKwar" defaultValue="JKwar" alwaysStopAt="true" />
     <variable name="Date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="Time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
