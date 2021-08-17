@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Android/Add library dependency" />
     <ignoreAction name="Kotlin/Specify type explicitly" />
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin Android/Extract string resource" />
   </component>
 </application>
