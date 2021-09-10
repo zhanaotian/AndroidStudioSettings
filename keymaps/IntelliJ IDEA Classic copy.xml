@@ -1,0 +1,13 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorLookupUp" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
+  <action id="RestoreDefaultLayout" />
+</keymap>
