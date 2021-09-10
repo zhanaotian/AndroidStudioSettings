@@ -1,0 +1,5 @@
+<application>
+  <component name="DateTimeFormatter">
+    <option name="overrideSystemDateFormat" value="true" />
+  </component>
+</application>
