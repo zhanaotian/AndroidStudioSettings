@@ -1,1 +1,0 @@
-#if ($HEADER_COMMENTS)
