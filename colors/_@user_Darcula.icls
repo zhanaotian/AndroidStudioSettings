@@ -1,45 +1,45 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2022-05-27T10:57:12</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.10</property>
     <property name="modified">2022-05-27T10:57:15</property>
-    <property name="originalScheme">Default</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f4f5fb" />
+        <option name="BACKGROUND" value="424347" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fbf7" />
+        <option name="BACKGROUND" value="404745" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f9fcf5" />
+        <option name="BACKGROUND" value="464843" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fff8f3" />
+        <option name="BACKGROUND" value="4b4541" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="fff1f0" />
+        <option name="BACKGROUND" value="4b403f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="ffebec" />
+        <option name="BACKGROUND" value="4b3c3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d9bcbc" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
   </attributes>
