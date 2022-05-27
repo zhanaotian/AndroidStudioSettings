@@ -1,7 +1,8 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="1" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
     <option name="supportScreenReaders" value="true" />
   </component>
@@ -9,6 +10,5 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
