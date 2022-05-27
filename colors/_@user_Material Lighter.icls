@@ -4,7 +4,7 @@
     <property name="created">2022-05-27T13:05:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-27T13:08:47</property>
+    <property name="modified">2022-05-27T14:11:58</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1174,22 +1174,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fafaed" />
+        <option name="BACKGROUND" value="f0f1f7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f1faf1" />
+        <option name="BACKGROUND" value="ecf7f3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="faf1fa" />
+        <option name="BACKGROUND" value="f5f8f1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="eef9f9" />
+        <option name="BACKGROUND" value="fbf4ef" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fbedec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fbe7e8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -3625,7 +3635,7 @@
         <option name="FOREGROUND" value="f76d47" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="272727" />
