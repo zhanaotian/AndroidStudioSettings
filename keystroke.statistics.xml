@@ -1,12 +1,12 @@
 <application>
   <component name="KeystrokeStatistics">
-    <option name="startAt" value="1653614145063" />
+    <option name="startAt" value="1655046817539" />
     <years>
       <map>
         <entry key="2022">
           <value>
             <map>
-              <entry key="163" value="82" />
+              <entry key="163" value="4" />
             </map>
           </value>
         </entry>
