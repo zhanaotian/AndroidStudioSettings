@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -10,7 +11,6 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="svg" approved="true" type="XML" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
